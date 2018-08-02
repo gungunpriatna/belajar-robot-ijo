@@ -4,4 +4,6 @@
     <string name="file_open">File Open</string>
     <string name="file_save">File Save</string>
     <string name="title">title</string>
+    <string name="test_soundpool">Test Soundpool</string>
+    <string name="play">Play</string>
 </resources>
